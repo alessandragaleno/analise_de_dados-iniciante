@@ -3,7 +3,7 @@
 
 #Guia Completo para Entrar na Área de Análise de Dados
 
-📁-(/The_Data_Analysis_Blueprint.pdf)
+📁-The_Data_Analysis_Blueprint.pdf
 
 #urls de videos do youtube que usei para IA criar materias de estudos, e também para facilitar
 no aprendizado.
